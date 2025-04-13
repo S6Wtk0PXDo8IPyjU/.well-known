@@ -12,22 +12,22 @@
                 ],
                 "components": [
                     {
-                        "/": "/",
+                        "/": "/"
                     },
                     {
-                        "/": "/signup",
+                        "/": "/signup"
                     },
                     {
-                        "/": "/home/upload",
+                        "/": "/home/upload"
                     },
                     {
-                        "/": "/home/library",
+                        "/": "/home/library"
                     },
                     {
-                        "/": "/home/library/*",
+                        "/": "/home/library/*"
                     },
                     {
-                        "/": "/dashboard/*",
+                        "/": "/dashboard/*"
                     }
                 ]
             }
